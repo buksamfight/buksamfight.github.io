@@ -12,8 +12,6 @@ description: Future In Wemakeplace
 # avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 avatar: images/wmp_logo.jpg
 
-# buksamfight.github.io
-  
 
 #
 # Flags below are optional
@@ -22,11 +20,11 @@ avatar: images/wmp_logo.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: buksamfight@naver.com
+  email: wmptech@wemakeprice.com
   facebook:
   flickr:
 #  github: barryclark/jekyll-now
-  github: buksamfight/buksamfight.github.io
+  github: wmptech/wmptech.github.io
   instagram:
   linkedin:
   pinterest:
@@ -46,7 +44,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://buksamfight.github.io
+url: http://wmptech.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
